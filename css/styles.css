@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana;
+    background-color: rgb(158, 126, 126);
+  }
+  h1 {
+    color: white;
+  
+    margin-top: px;
+  
+    margin-right: 0px;
+  
+    margin-bottom: 0px;
+  
+    margin-left: 0px;
+  }
+  
+  h3 {
+    color: white;
+    width: 100%;
+  }
+  div {
+    background-color: #999999;
+  }
+  
+  /* // to replace div selector with .tile in css/styles.css */
+  
+  #div1 {
+    border: 5px solid pink;
+  }
+  .tile {
+    background-color: #999999;
+    /* //t r b l */
+    margin: 20px 20px 0px 20px;
+  
+    padding: 10px 5px;
+  
+    height: 200px;
+  
+    width: 20%;
+  }
+  #topics-learnt {
+    font-family: "Courier New";
+  }
+  
